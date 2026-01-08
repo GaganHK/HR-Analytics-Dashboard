@@ -22,3 +22,6 @@ workforce distribution.
 ## Objective
 To help HR teams make data-driven decisions for employee retention
 and workforce planning.
+
+## Dashboard Preview
+![HR Dashboard](dashboard.png)
